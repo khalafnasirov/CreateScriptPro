@@ -1,0 +1,22 @@
+{
+  "name": "com.utips.createscriptpro",
+  "author": "UnityTips",
+  "displayName": "Create Script Pro",
+  "unity": "2019.3",
+  "version": "1.2.2",
+  "unityRelease": "0a8",
+  "description": "Advanced script modifier for creating new C# scripts with pre-selected options",
+  "keywords": [
+    "Script",
+    "Create",
+    "New",
+    "Editor",
+    "Custom",
+    "Csharp",
+    "C#",
+    "Development",
+    "Tips",
+    "UnityTips", 
+    "Unity"
+  ]
+}
